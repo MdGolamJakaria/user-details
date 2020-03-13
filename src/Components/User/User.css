@@ -1,0 +1,17 @@
+.user-container{
+    display: flex;
+}
+.user{
+    width: 60%;
+    background-color: lightgray;
+    padding: 10px;
+
+}
+.p-image{
+    width: 30%;
+}
+.selected-user{
+    width: 40%;
+    background-color: rgb(233, 233, 233) ;
+    padding: 10px;
+}

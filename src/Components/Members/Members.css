@@ -1,0 +1,10 @@
+.members{
+    display: flex;
+}
+.add-btn{
+    padding: 5px 20px;
+    background-color: skyblue;
+    border: none;
+    border-radius: 5px;
+    
+}
